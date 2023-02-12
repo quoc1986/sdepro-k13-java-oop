@@ -1,4 +1,6 @@
-package oop_Exercises;
+package oop_Exercises.genarate;
+
+import oop_Exercises.genarate.Circle;
 
 public class CircleController {
     public static void main(String[] args) {
